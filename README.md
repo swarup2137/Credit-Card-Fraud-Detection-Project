@@ -24,6 +24,8 @@ C:/Users/swaro/AppData/Local/Programs/Python/Python312/python.exe fraud_detectio
 
 
 Outputs metrics for all models and saves best model as fraud_detection_model.pkl.
+<img width="998" height="829" alt="image" src="https://github.com/user-attachments/assets/135da312-3854-47bd-a3ac-12647ef419f4" />
+
 
 Models
 
